@@ -6,6 +6,7 @@ A Desktop Application which support an Image Viewer facilities such as loading, 
 * **Amr Hendy** [AmrHendy](https://github.com/AmrHendy)
 * **Muhammed Ibrahim** [MuhammedKhamis](https://github.com/MuhammedKhamis)
 * **Mohamed Murad** [MohamedMurad](https://github.com/MohamedMurad)
+* **Mohamed Bakr** [MohamedBakrAli](https://github.com/MohamedBakrAli)
 
 ## License
 
