@@ -34,8 +34,11 @@ private:
     QAction *exit_button;
 
     QAction *crop_button;
+    QAction *zoom_in_button;
+    QAction *zoom_out_button;
     QAction *undo_button;
     QAction *redo_button;
+
 
 
     double current_size_factor;
@@ -62,6 +65,9 @@ private slots:
     void save_rotation_image();
     void zoom(int value);
     void save_zoomed_image();
+    void zoom_in_percentage();
+    void zoom_out_percentage();
+    void zoom_selectingArea(int value);
 
 
 protected:
